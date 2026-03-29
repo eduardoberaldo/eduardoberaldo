@@ -36,12 +36,6 @@ I am a Senior Backend Engineer with nearly a decade of experience designing and 
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardoberaldo&show_icons=true&theme=tokyonight&hide_border=true" alt="Eduardo's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoberaldo&layout=compact&theme=tokyonight&hide_border=true&hide=java,xamarin,ios,android,html,css" alt="Top Languages" height="170" />
-</p>
-
 ### 📈 Current Streak
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoberaldo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
