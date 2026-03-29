@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo Pacheco 🚀
+# Hi, I'm Eduardo Beraldo 🚀
 
 **Senior Financial Systems Architect | AI Engineering Student (RAG & Agents)**
 
